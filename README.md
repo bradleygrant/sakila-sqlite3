@@ -10,6 +10,15 @@ Includes [Source Files](/source/) and a [Ready-To-Use SQLite3 Database File](sak
 
 Sakila is a sample database originally developed by the MySQL development team. It provides data in a standard, well-normalized schema that can be used for examples in books, tutorials, articles, samples, and so forth.
 
+Sakila models a database for a chain of video rental stores. It contains a vast amount of information about:
+
+- movie titles
+- actors, genres, etc.
+- what stores have what films in inventory
+- transactions and payments
+- customers
+- staff
+
 What sets Sakila apart from other "toy" databases is the richness of its table schema, allowing SQL learners to practice fairly complex joins and queries on a compact dataset:
 
 ![Table schema UML diagram for the Sakila database](sakila.png)
