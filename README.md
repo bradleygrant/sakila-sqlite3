@@ -4,7 +4,7 @@ Sakila Sample Database - SQLite3 Port
 
 Practice your SQL and Data Science Skills on this handy-to-use sample SQL dataset! Runs in SQLite3 on your local machine. No SQL server setup required.
 
-Includes [Source Files](/source/) and a [Ready-To-Use SQLite3 Database File](sakila_master.db)
+Includes [Source Files](/source/) and a [Ready-To-Use SQLite3 Database File](sakila_master.db?raw=true)
 
 ## About Sakila
 
@@ -37,7 +37,7 @@ If necessary, install it from your apt/yum/homebrew package manager, or download
 
 If all you want to do is start practicing SQL queries, it's really easy:
 
-1. Clone this repository to download the files. (Alternatively, just right-click and download [sakila_master.db](sakila_master.db))
+1. Clone this repository to download the files. (Alternatively, just right-click and download [sakila_master.db](sakila_master.db?raw=true))
 
 2. Open Sqlite3: `sqlite3 sakila_master.db`
 
